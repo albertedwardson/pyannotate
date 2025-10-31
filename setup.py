@@ -36,7 +36,7 @@ setup(name='pyannotate',
           'Programming Language :: Python :: 3.7',
           'Topic :: Software Development',
           ],
-      install_requires = ['six',
+      install_requires = ['fissix',
                           'mypy_extensions',
                           'typing >= 3.5.3; python_version < "3.5"'
                           ],
